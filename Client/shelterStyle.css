@@ -1,0 +1,26 @@
+.title-bar {
+    background-color: #2f5d3f; /* Forest green */
+    padding: 15px;
+    text-align: center;
+}
+
+.title-bar h1 {
+    color: white;
+    font-weight: bold;
+    margin: 0;
+}
+
+#animalList .list-group-item {
+    cursor: pointer;
+}
+
+#animalProfile {
+    border: 2px solid #2f5d3f;
+}
+
+#animalProfile img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    background-color: #eee;
+}

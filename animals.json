@@ -1,0 +1,107 @@
+{
+  "shelters": [
+    {
+      "id": 1,
+      "name": "Shelter 1"
+    },
+    {
+      "id": 2,
+      "name": "Shelter 2"
+    },
+    {
+      "id": 3,
+      "name": "Shelter 3"
+    },
+    {
+      "id": 4,
+      "name": "Shelter 4"
+    },
+    {
+      "id": 5,
+      "name": "Shelter 5"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Buddy",
+      "type": "Dog",
+      "size": "Medium",
+      "age": 3,
+      "shelterId": 1,
+      "image": "buddy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "type": "Cat",
+      "size": "Small",
+      "age": 2,
+      "shelterId": 2,
+      "image": "luna.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "type": "Dog",
+      "size": "Medium",
+      "age": 1,
+      "shelterId": 5,
+      "image": "jack.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Max",
+      "type": "Dog",
+      "size": "Large",
+      "age": 5,
+      "shelterId": 3,
+      "image": "max.jpg"
+    },
+    {
+      "name": "John",
+      "type": "Cat",
+      "size": "Medium",
+      "age": 10,
+      "shelterId": 1,
+      "image": null,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Ruffy",
+      "type": "Cat",
+      "size": "Small",
+      "age": 8,
+      "shelterId": 5,
+      "image": "ruffy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rex",
+      "type": "Dog",
+      "size": "Medium",
+      "age": 4,
+      "shelterId": 1,
+      "image": "rex.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jack",
+      "type": "Dog",
+      "size": "Large",
+      "age": 1,
+      "shelterId": 1,
+      "image": null
+    },
+    {
+      "id": 9,
+      "name": "Steve",
+      "type": "Cat",
+      "size": "Small",
+      "age": 2,
+      "shelterId": 1,
+      "image": "steve.jpg"
+    }
+  ]
+}
